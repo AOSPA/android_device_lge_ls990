@@ -22,4 +22,6 @@
 
 #define BLE_VND_INCLUDED TRUE
 
+#define BLUETOOTH_QTI_SW FALSE
+
 #endif
